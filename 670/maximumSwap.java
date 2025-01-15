@@ -1,9 +1,9 @@
 import java.util.*;
 
 class Main {
-    public static void main(String[] args) {
-        System.out.println(maximumSwap(2025));
-    }
+//    public static void main(String[] args) {
+//        System.out.println(maximumSwap(2025));
+//    }
   
     public static int maximumSwap(int num) {
         char A[] = Integer.toString(num).toCharArray();
