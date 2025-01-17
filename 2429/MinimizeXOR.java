@@ -1,3 +1,4 @@
+
 class Solution {
     public int minimizeXor(int num1, int num2) {
         int count = Integer.bitCount(num2); 
