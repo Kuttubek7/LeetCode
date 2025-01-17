@@ -1,3 +1,4 @@
+
 class Solution {
     public int xorAllNums(int[] nums1, int[] nums2) {
         int c1 = nums1.length;
